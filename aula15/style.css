@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+li {
+  margin: 5px 0;
+}
+
+#errorMessage {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
