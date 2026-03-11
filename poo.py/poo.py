@@ -1,6 +1,6 @@
 class Animal:
     def falar(self):
-        print("Este animal faz um som.")
+        print("Este animal faz um som genérico.")
 
 class Cachorro:
     def falar(self):
@@ -16,4 +16,5 @@ gato = Gato()
 
 animal.falar()
 cachorro.falar()
+
 gato.falar()
